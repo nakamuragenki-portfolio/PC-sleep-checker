@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "sleep_main",
+    "sleep_rewrite",
+    "sleep_toul",
+    "sleep_ui"
+]

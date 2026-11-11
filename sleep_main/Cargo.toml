@@ -1,0 +1,18 @@
+[package]
+name = "sleep_main"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = "0.5.3"
+chrono = "0.4"
+eframe = "0.36.1"
+egui = "0.36.1"
+image = "0.25"
+csv = "1.4.0"
+sleep_ui = { path = "../sleep_ui" }
+sleep_toul = { path = "../sleep_toul" }
+sleep_rewrite = { path = "../sleep_rewrite"}
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1"

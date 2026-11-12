@@ -3,6 +3,7 @@
 Rustで開発したPC利用状況・睡眠時間記録アプリです。
 
 ## 使用時状況
+<img width="496" height="429" alt="image" src="https://github.com/user-attachments/assets/2e29a15d-93ba-4ddf-8b27-6e08f07c488c" />
 
 
 ## 開発背景
